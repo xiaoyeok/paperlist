@@ -1,0 +1,54 @@
+paperlist
+初调研论文
+Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
+Learning both Weights and Connections for Efficient Neural Networks
+Distilling the Knowledge in a Neural Network
+
+1.大模型相关（14篇）
+Scaling Laws for Neural Language Models
+LLM-BLENDER: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion
+Large Language Models are Built-in Autoregressive Search Engines
+Language Models are Few-Shot Learners
+Language Models (Mostly) Know What They Know
+Language Models are Unsupervised Multitask Learners
+Learning to summarize from human feedback
+reStructured Pre-training
+Scaling Instruction-Finetuned Language Models
+Training language models to follow instructions with human feedback
+Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers
+Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Attention Is All You Need
+
+
+2.知识蒸馏（30篇）
+Distilling the Knowledge in a Neural Network
+ReAugKD: Retrieval-augmented knowledge distillation for pre-trained language models
+Knowledge Distillation: A Survey
+Knowledge Distillation of Transformer-based Language Models Revisited
+MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers
+Knowledge Distillation of Large Language Models
+Patient Knowledge Distillation for BERT Model Compression
+Large Language Models Are Reasoning Teachers
+Well-Read Students Learn Better: The Impact of Student Initialization on Knowledge Distillation
+DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
+ALP-KD: Attention-Based Layer Projection for Knowledge Distillation
+Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes
+Lion: Adversarial Distillation of Closed-Source Large Language Model
+Dynamic Knowledge Distillation for Pre-trained Language Models
+Model Compression
+Hardware-Software Codesign of Accurate, Multiplier-free Deep Neural Networks 
+Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy
+Model compression via distillation and quantization
+N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning
+Faster gaze prediction with dense networks and Fisher pruning
+Like What You Like: Knowledge Distill via Neuron Selectivity Transfer
+Improved Knowledge Distillation via Teacher Assistant
+Relational Knowledge Distillation
+TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing
+A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning
+Similarity-Preserving Knowledge Distillation
+Revisiting Knowledge Distillation via Label Smoothing Regularization
+Variational Information Distillation for Knowledge Transfer
+How Many Layers and Why? An Analysis of the Model Depth in Transformers
+What Does BERT Learn about the Structure of Language?
